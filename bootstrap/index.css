@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    margin-top: 20px;
+    color: #0d7377;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+h4{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+
+}
+hr{
+    border: dotted #00000; 7px;  
+    border-bottom: none;
+    width: 7%;
+    margin:100px auto 100px auto;
+     
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+.myphoto{
+    height:150px;
+    width: 150px;
+    border:blackridge;
+    border-radius: 100%;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.webdeveloper{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.player{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.crafter{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+.bottom-container{
+    margin-top: 30px;
+}
+.footer-link{
+    margin: 15px;
+}
